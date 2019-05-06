@@ -1,10 +1,11 @@
 { 
-      "my.user_ocid":"pasteYourUserOCID",
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
-      "my.fingerprint":"pasteYourFingprint",
-      "my.availability_domain": "pasteYourAvailbilityDomain",
+	"my.compartment_ocid":,"ocid1.compartment.oc1..aaaaaaaapok2hey6zce6vuzeee5vcxsrrvx53smf34udnpl7n4uqq33zp6oa",
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaa7puydswuqwc3sy6zjdhv76lgnpu37tmt6wpsbqfsdu4x4lhkw35q",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaahjblap76dctrwzeogev4moqcswpicg6khemwb72mzblojpnfjopa",
+      "my.fingerprint":"b2:75:07:c8:da:a5:78:1a:0c:6b:71:4e:b7:79:e0:73",
+      "my.availability_domain": "QTTW:US-ASHBURN-AD-1",
       "my.region": "us-ashburn-1",
       "my.compartment_ocid": "pasteYourCompartmentOCID",
-      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaaakm6vyzootvtjnuql35nrlbgxh37rju5m563xzuqfup7mpyb5iba",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
     }
